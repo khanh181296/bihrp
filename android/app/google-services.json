@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92606790197",
+    "firebase_url": "https://bihrp-app.firebaseio.com",
+    "project_id": "bihrp-app",
+    "storage_bucket": "bihrp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92606790197:android:6740c92df2bc23eb5dcf7c",
+        "android_client_info": {
+          "package_name": "com.mbihrp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92606790197-211fhh2487h0lpjg2207m9s9lqvug2lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGHCh_baKZayUiMvyggvpsvu8PDgc1MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92606790197-211fhh2487h0lpjg2207m9s9lqvug2lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
